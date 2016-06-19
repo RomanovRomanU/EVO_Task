@@ -1,5 +1,4 @@
 import time
-import math
 import random
 
 class node():   #Создаём класс для ячейки в трёхмерной матрице
